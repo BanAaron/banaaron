@@ -33,7 +33,7 @@ Aaron = Human(
     ["he", "him", "his"],
     ["Python", "SQL", "C#"],
     ["Cycling", "Music", "Games", "Reading"],
-    "PyCharm, VS Code, NeoVim",
+    ["PyCharm", "VS Code", "NeoVim"],
     ["Dark Souls", "Elden Ring", "Sekiro"]
 )
 ```
@@ -49,7 +49,7 @@ class Human:
     pronouns: [str]
     code: [str]
     hobbies: [str]
-    ide: str
+    ide: [str]
     favourite_games: [str]
 ```
 
