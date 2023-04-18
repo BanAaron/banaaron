@@ -16,17 +16,17 @@ T3 Technical Engineer at [UserZoom](https://www.userzoom.com/)/[UserTesting](htt
 
 ## More about me
 
-```python3
-@dataclass
-class Human:
-    name: str
-    age: int
-    pronouns: [str]
-    code: [str]
-    hobbies: [str]
-    ide: str
-    favourite_games: [str]
+</td>
+</tr>
+</table><table>
+<r>
+<th>main.py</th>
+<th>human.py</th>
+</tr>
+<tr>
+<td>
 
+```python3
 Aaron = Human(
     "Aaron Barratt",
     27,
@@ -37,3 +37,22 @@ Aaron = Human(
     ["Dark Souls", "Elden Ring", "Sekiro"]
 )
 ```
+
+</td>
+<td>
+
+```python3
+@dataclass
+class Human:
+    name: str
+    age: int
+    pronouns: [str]
+    code: [str]
+    hobbies: [str]
+    ide: str
+    favourite_games: [str]
+```
+
+</td>
+</tr>
+</table>
