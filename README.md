@@ -1,4 +1,4 @@
-# Hello 👋🏻, I'm Aaron Barratt
+# Hello 👋🏻
 
 T3 Technical Engineer at [UserZoom](https://www.userzoom.com/)/[UserTesting](https://www.usertesting.com/).
 
