@@ -2,7 +2,7 @@
 
 T3 Technical Engineer at [UserZoom](https://www.userzoom.com/)/[UserTesting](https://www.usertesting.com/).
 
-- 🐍 I’m currently learning Python
+- 🐍 I am learning Python
 - ⚒️ Currently working on [aaronbarratt.dev](https://www.aaronbarratt.dev/ )
 - 👨🏻‍💻 Former SQL Server DBA
 - 🚴🏻️ Cycling Nerd
