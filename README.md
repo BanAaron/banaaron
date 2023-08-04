@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer [@dentsu](https://www.dentsu.com/)
 
-- 🐍 Pythonista, occasional 🦀 [Rustacean](https://www.rust-lang.org/)
+- 🐍 Pythonista and occasional 🦀 [Rustacean](https://www.rust-lang.org/)
 - ⚒️ Working on [aaronbarratt.dev](https://www.aaronbarratt.dev/ )
 - 👨🏻‍💻 Former SQL Server DBA
 - ⚔️️ FromSoftware fanboy
