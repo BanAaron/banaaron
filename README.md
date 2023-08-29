@@ -6,8 +6,8 @@ I am a Full Stack Developer [@dentsu](https://www.dentsu.com/)
 - ⚔️️ FromSoftware fanboy
 - 🚴🏻️ Cycling Nerd
 - 🐍 Pythonista
-- 📖 Golang
-- 🦀 Rust
+- ☕ JavaScript
+- 📖 Go
 
 ## Socials
 
