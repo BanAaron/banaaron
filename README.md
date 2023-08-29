@@ -7,6 +7,7 @@ I am a Full Stack Developer [@dentsu](https://www.dentsu.com/)
 - 🚴🏻️ Cycling Nerd
 - 🐍 Pythonista
 - 📖 Golang
+- 🦀 Rust
 
 ## Socials
 
