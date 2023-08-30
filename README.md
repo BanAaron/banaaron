@@ -5,8 +5,8 @@ I am a Full Stack Developer [@dentsu](https://www.dentsu.com/)
 - 👨🏻‍💻 Former SQL Server DBA
 - ⚔️️ FromSoftware fanboy
 - 🚴🏻️ Cycling Nerd
-- 🐍 Pythonista
 - ☕ JavaScript
+- 🐍 Python
 - 📖 Go
 
 ## Socials
