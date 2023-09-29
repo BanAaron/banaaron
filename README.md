@@ -6,9 +6,8 @@ I am a Full Stack Developer [@dentsu](https://www.dentsu.com/).
 - ⚔️️ FromSoftware Fanboy
 - 🐉 Studying Mandarin
 - 💻 Framework 13
+- 🐧 Linux Enjoyer
 - 🚴🏻️ Cycling Nerd
-- 🐧 Ubuntu 
-- ⌨️ IntelliJ
 
 ## SKills
 
