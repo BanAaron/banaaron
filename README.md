@@ -1,6 +1,6 @@
 # Hello 👋🏻
 
-I am a Full Stack Developer [@dentsu](https://www.dentsu.com/).
+I am a Full-stack Developer [@dentsu](https://www.dentsu.com/).
 
 - 👨🏻‍💻 Former SQL Server DBA
 - ⚔️️ FromSoftware Fanboy
