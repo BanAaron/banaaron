@@ -4,10 +4,10 @@ I am a Full-stack Developer [@dentsu](https://www.dentsu.com/).
 
 - 👨🏻‍💻 Former SQL Server DBA
 - ⚔️️ FromSoftware Fanboy
-- 🐉 Studying Mandarin
 - 💻 Framework 13
-- 🐧 Linux Enjoyer
 - 🚴🏻️ Cycling Nerd
+- 🐧 Linux Gang
+
 
 ## Skills
 
