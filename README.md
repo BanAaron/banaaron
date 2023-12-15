@@ -2,8 +2,8 @@
 
 I am a Full-stack Developer [@dentsu](https://www.dentsu.com/).
 
-- 🐦 [Dreamberd](https://github.com/TodePond/nDreamBerd) contributor.
 - 👨🏻‍💻 Former SQL Server DBA
+- 🐦 [Dreamberd](https://github.com/TodePond/nDreamBerd) contributor
 - ⚔️️ FromSoftware Fanboy
 - 💻 Framework 13
 - 🚴🏻️ Cycling Nerd
